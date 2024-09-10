@@ -1,0 +1,11 @@
+body {
+  color: aqua;
+  background-color: black;
+}
+body p {
+  cursor: auto;
+  text-decoration: none;
+}
+body a {
+  height: 33px;
+}
